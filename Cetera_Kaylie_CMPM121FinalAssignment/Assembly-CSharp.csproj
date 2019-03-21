@@ -70,13 +70,14 @@
     <Compile Include="Assets\Imported Packs\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
     <Compile Include="Assets\Imported Packs\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
     <Compile Include="Assets\Scripts\AnimControl.cs" />
-    <Compile Include="Assets\Scripts\DeerMove.cs" />
-    <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\ThirdPersonCameraControl.cs" />
+    <Compile Include="Assets\Scripts\ThirdPersonCharacterControl.cs" />
     <None Include="Assets\Imported Packs\Standard Assets\Environment\Water (Basic)\DO_NOT_WORK_IN_VR.txt" />
     <None Include="Assets\Imported Packs\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
     <None Include="Assets\Imported Packs\Standard Assets\Environment\Water\DO_NOT_WORK_IN_VR.txt" />
     <None Include="Assets\Imported Packs\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
     <None Include="Assets\Imported Packs\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
+    <None Include="Assets\Scripts\README.txt" />
     <None Include="Assets\Imported Packs\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
     <None Include="Assets\Imported Packs\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
